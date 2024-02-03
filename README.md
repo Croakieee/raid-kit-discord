@@ -6,16 +6,12 @@
 ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 ![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)
 
-![GitHub contributors](https://img.shields.io/github/contributors/the-cult-of-integral/discord-raidkit)
+![GitHub contributors](https://github.com/Croakieee?tab=repositories)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
-![GitHub issues](https://img.shields.io/github/issues/the-cult-of-integral/discord-raidkit)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/9P9/Discord-QR-Token-Logger)
-![Maintenance](https://img.shields.io/maintenance/yes/2023)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/the-cult-of-integral/discord-raidkit)
 
-Discord Raidkit is an open-source, forever free tool that allows you to raid and destroy Discord servers via Discord bots, compromise Discord accounts, and generate Discord token grabbers.
+Discord Raidkit is an open-source, tool that allows you to raid and destroy Discord servers via Discord bots, compromise Discord accounts, and generate Discord token grabbers.
 
-[Have a feature suggestion? Make one here!](https://github.com/the-cult-of-integral/discord-raidkit/discussions/categories/ideas)
+[Have a feature suggestion? Make one here!](https://github.com/Croakieee?)
 
 ![Discord Raidkit v2.4.4 Console](https://user-images.githubusercontent.com/98130822/235321378-f624a5ba-5ff6-4f80-b37e-8a1691724c53.png)
 
